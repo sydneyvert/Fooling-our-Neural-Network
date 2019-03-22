@@ -1,6 +1,6 @@
 # Data Science Toolbox 4
 
-There is a Jupyter notebook containing the practical part of this report at `./project/report.ipynb`. This can be downloaded and run locally, or within Google Colab.
+There is a Jupyter notebook containing the practical part of this report at `./project/report.ipynb`. This can be downloaded and run locally, or within Google Colab. A copy of the PDF is also in this repo, located at `./project/report.pdf`.
 
 ## Running locally
 We've frozen our dependencies in `requirements.txt`, so the following should get a local installation up and running:
